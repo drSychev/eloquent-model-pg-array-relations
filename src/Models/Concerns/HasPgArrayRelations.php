@@ -10,6 +10,7 @@ use Illuminate\Database\Eloquent\Builder;
 trait HasPgArrayRelations
 {
 
+
     /**
      * Define a HasManyInArray relationship.
      *
